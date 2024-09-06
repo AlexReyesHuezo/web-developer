@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "stylelint": "^16.9.0",
+    "stylelint-config-standard": "^36.0.1",
     "vite": "^5.4.1"
   }
 }
