@@ -1,23 +1,19 @@
-/* colors */
 :root {
-  --black: #000000ff;
+  /* colors */
+  --black: #000f;
   --oxford-blue: #14213dff;
   --orange-web: #fca311ff;
   --platinum: #e5e5e5ff;
-  --white: #ffffffff;
-}
+  --white: #ffff;
 
-/* fonts */
-:root {
-  --font-family-primary: 'Noto Sans', sans-serif;
+  /* fonts */
+  --font-family-primary: "Noto Sans", sans-serif;
   --font-size-sm: 0.875rem;
   --font-size-base: 1rem;
   --font-size-lg: 1.25rem;
   --font-size-xl: 1.5rem;
-}
 
-/* spacing */
-:root {
+  /* spacing */
   --spacing-xxs: 0.25rem;
   --spacing-xs: 0.5rem;
   --spacing-sm: 1rem;
@@ -25,10 +21,8 @@
   --spacing-lg: 2rem;
   --spacing-xl: 3rem;
   --border-radius: 0.25rem;
-}
 
-/* z-index */
-:root {
+  /* z-index */
   --z-index-1: 1;
   --z-index-2: 2;
   --z-index-3: 3;
